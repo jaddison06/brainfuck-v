@@ -1,0 +1,125 @@
+INFO (2021-04-09 20:26:02) - Initialising Brainfuck
+INFO (2021-04-09 20:26:02) - Running Brainfuck
+INFO (2021-04-09 20:26:02) - Conditional forward jump
+INFO (2021-04-09 20:26:02) - Getting current bf byte
+INFO (2021-04-09 20:26:02) - Byte is 0 - jumping
+INFO (2021-04-09 20:26:02) - Found ] at 23
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Conditional forward jump
+INFO (2021-04-09 20:26:02) - Getting current bf byte
+INFO (2021-04-09 20:26:02) - Byte wasn't 0, adding current addr (32) to jump stack
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Conditional forward jump
+INFO (2021-04-09 20:26:02) - Getting current bf byte
+INFO (2021-04-09 20:26:02) - Byte wasn't 0, adding current addr (38) to jump stack
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Getting current bf byte
+INFO (2021-04-09 20:26:02) - Decrementing bf byte
+INFO (2021-04-09 20:26:02) - Conditional backward jump
+INFO (2021-04-09 20:26:02) - Getting current bf byte
+INFO (2021-04-09 20:26:02) - Byte was zero, jumping
+INFO (2021-04-09 20:26:02) - Jumped to 38
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Getting current bf byte
+INFO (2021-04-09 20:26:02) - Decrementing bf byte
+INFO (2021-04-09 20:26:02) - Conditional backward jump
+INFO (2021-04-09 20:26:02) - Getting current bf byte
+INFO (2021-04-09 20:26:02) - Byte was zero, jumping
+INFO (2021-04-09 20:26:02) - Jumped to 32
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Conditional forward jump
+INFO (2021-04-09 20:26:02) - Getting current bf byte
+INFO (2021-04-09 20:26:02) - Byte wasn't 0, adding current addr (38) to jump stack
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Getting current bf byte
+INFO (2021-04-09 20:26:02) - Decrementing bf byte
+INFO (2021-04-09 20:26:02) - Conditional backward jump
+INFO (2021-04-09 20:26:02) - Getting current bf byte
+INFO (2021-04-09 20:26:02) - Byte was zero, jumping
+INFO (2021-04-09 20:26:02) - Jumped to 38
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Incrementing bf byte
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:02) - Getting current bf byte
+INFO (2021-04-09 20:26:02) - Decrementing bf byte
+INFO (2021-04-09 20:26:02) - Conditional backward jump
+INFO (2021-04-09 20:26:02) - Getting current bf byte
+INFO (2021-04-09 20:26:02) - Byte was zero, jumping
+ERROR (2021-04-09 20:26:02) - Tried to jump backward, but the jump stack is empty

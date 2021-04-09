@@ -1,0 +1,2233 @@
+INFO (2021-04-09 20:50:40) - parsing file scripts/hello_world.bf
+DEBUG (2021-04-09 20:50:40) - got command [
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command T
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command g
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command H
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command W
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command !
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command w
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command ,
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command g
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command 0
+DEBUG (2021-04-09 20:50:40) - got command 6
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command v
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command [
+DEBUG (2021-04-09 20:50:40) - got command I
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command ]
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command T
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command ,
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command w
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command y
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command g
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command B
+DEBUG (2021-04-09 20:50:40) - got command F
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command g
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command y
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command v
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command w
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command y
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command b
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command y
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command A
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command y
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command ,
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command ,
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command ,
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command ,
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command ,
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command <
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command y
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command g
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command ,
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command [
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command ]
+DEBUG (2021-04-09 20:50:40) - got command "
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command j
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command v
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command b
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command b
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command T
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command g
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command b
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command v
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 0
+DEBUG (2021-04-09 20:50:40) - got command ;
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 0
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command v
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command b
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command k
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command ]
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command S
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 0
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 8
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command [
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command A
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 4
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command ;
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command w
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command w
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command y
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 4
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command [
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command w
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command b
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command b
+DEBUG (2021-04-09 20:50:40) - got command y
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command A
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 2
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 2
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command A
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 3
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 3
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command A
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 3
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 4
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command A
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 5
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command <
+DEBUG (2021-04-09 20:50:40) - got command <
+DEBUG (2021-04-09 20:50:40) - got command <
+DEBUG (2021-04-09 20:50:40) - got command <
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command D
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command ]
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command L
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command z
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command ;
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command b
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 4
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command A
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 2
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command A
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 3
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command S
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command b
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 4
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command A
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 6
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command [
+DEBUG (2021-04-09 20:50:40) - got command <
+DEBUG (2021-04-09 20:50:40) - got command ]
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command M
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command v
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command b
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command k
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command z
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command y
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command ;
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command w
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command b
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command w
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command w
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command b
+DEBUG (2021-04-09 20:50:40) - got command y
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command v
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command <
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command D
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 0
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command ]
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command L
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 0
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command z
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command ;
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command b
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 8
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command T
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command :
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command N
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command :
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 0
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 2
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 3
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 4
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 5
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 6
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command :
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 0
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 0
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 7
+DEBUG (2021-04-09 20:50:40) - got command 2
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command 0
+DEBUG (2021-04-09 20:50:40) - got command 4
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 8
+DEBUG (2021-04-09 20:50:40) - got command 8
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 3
+DEBUG (2021-04-09 20:50:40) - got command 2
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 8
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command P
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command :
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command ^
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 2
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command v
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 7
+DEBUG (2021-04-09 20:50:40) - got command 2
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command w
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command H
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command S
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command b
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 3
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 3
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command g
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command 0
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command w
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command L
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command k
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command w
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 3
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 5
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 3
+DEBUG (2021-04-09 20:50:40) - got command 2
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command <
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command S
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command b
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 4
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 8
+DEBUG (2021-04-09 20:50:40) - got command 7
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command g
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command v
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command W
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command <
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 3
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command w
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command h
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command H
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command -
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 3
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command '
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command A
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command 1
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 5
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command g
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command v
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command u
+DEBUG (2021-04-09 20:50:40) - got command s
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command x
+DEBUG (2021-04-09 20:50:40) - got command c
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command p
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command t
+DEBUG (2021-04-09 20:50:40) - got command 
+
+DEBUG (2021-04-09 20:50:40) - got command >
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command +
+DEBUG (2021-04-09 20:50:40) - got command .
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command A
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command d
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command y
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command a
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command w
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command i
+DEBUG (2021-04-09 20:50:40) - got command n
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command f
+DEBUG (2021-04-09 20:50:40) - got command r
+DEBUG (2021-04-09 20:50:40) - got command o
+DEBUG (2021-04-09 20:50:40) - got command m
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command C
+DEBUG (2021-04-09 20:50:40) - got command e
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command l
+DEBUG (2021-04-09 20:50:40) - got command  
+DEBUG (2021-04-09 20:50:40) - got command #
+DEBUG (2021-04-09 20:50:40) - got command 6

@@ -1,0 +1,250 @@
+INFO - Initialising Brainfuck
+
+INFO - Running Brainfuck
+
+INFO - Conditional forward jump
+
+INFO - Getting current bf byte
+
+INFO - Byte is 0 - jumping
+
+INFO - Found ] at 571
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Conditional forward jump
+
+INFO - Getting current bf byte
+
+INFO - Byte wasn't 0, adding current addr (613) to jump stack
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Conditional forward jump
+
+INFO - Getting current bf byte
+
+INFO - Byte wasn't 0, adding current addr (695) to jump stack
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Decrementing bf data pointer
+
+INFO - Decrementing bf data pointer
+
+INFO - Decrementing bf data pointer
+
+INFO - Decrementing bf data pointer
+
+INFO - Getting current bf byte
+
+INFO - Decrementing bf byte
+
+INFO - Conditional backward jump
+
+INFO - Getting current bf byte
+
+INFO - Byte was zero, jumping
+
+INFO - Jumped to 695
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Decrementing bf data pointer
+
+INFO - Decrementing bf data pointer
+
+INFO - Decrementing bf data pointer
+
+INFO - Decrementing bf data pointer
+
+INFO - Getting current bf byte
+
+INFO - Decrementing bf byte
+
+INFO - Conditional backward jump
+
+INFO - Getting current bf byte
+
+INFO - Byte was zero, jumping
+
+INFO - Jumped to 613
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Conditional forward jump
+
+INFO - Getting current bf byte
+
+INFO - Byte wasn't 0, adding current addr (695) to jump stack
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Decrementing bf data pointer
+
+INFO - Decrementing bf data pointer
+
+INFO - Decrementing bf data pointer
+
+INFO - Decrementing bf data pointer
+
+INFO - Getting current bf byte
+
+INFO - Decrementing bf byte
+
+INFO - Conditional backward jump
+
+INFO - Getting current bf byte
+
+INFO - Byte was zero, jumping
+
+INFO - Jumped to 695
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf byte
+
+INFO - Incrementing bf data pointer
+
+INFO - Incrementing bf byte
+
+INFO - Decrementing bf data pointer
+
+INFO - Decrementing bf data pointer
+
+INFO - Decrementing bf data pointer
+
+INFO - Decrementing bf data pointer
+
+INFO - Getting current bf byte
+
+INFO - Decrementing bf byte
+
+INFO - Conditional backward jump
+
+INFO - Getting current bf byte
+
+INFO - Byte was zero, jumping
+
+ERROR - Tried to jump backward, but the jump stack is empty
+

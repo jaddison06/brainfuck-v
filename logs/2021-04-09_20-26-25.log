@@ -1,0 +1,256 @@
+INFO (2021-04-09 20:26:25) - Initialising Brainfuck
+INFO (2021-04-09 20:26:25) - Running Brainfuck
+DEBUG (2021-04-09 20:26:25) - Commands: 
+DEBUG (2021-04-09 20:26:25) - 0: [
+DEBUG (2021-04-09 20:26:25) - 1: ,
+DEBUG (2021-04-09 20:26:25) - 2: .
+DEBUG (2021-04-09 20:26:25) - 3: [
+DEBUG (2021-04-09 20:26:25) - 4: .
+DEBUG (2021-04-09 20:26:25) - 5: ]
+DEBUG (2021-04-09 20:26:25) - 6: ,
+DEBUG (2021-04-09 20:26:25) - 7: .
+DEBUG (2021-04-09 20:26:25) - 8: .
+DEBUG (2021-04-09 20:26:25) - 9: ,
+DEBUG (2021-04-09 20:26:25) - 10: ,
+DEBUG (2021-04-09 20:26:25) - 11: ,
+DEBUG (2021-04-09 20:26:25) - 12: +
+DEBUG (2021-04-09 20:26:25) - 13: ,
+DEBUG (2021-04-09 20:26:25) - 14: -
+DEBUG (2021-04-09 20:26:25) - 15: ,
+DEBUG (2021-04-09 20:26:25) - 16: <
+DEBUG (2021-04-09 20:26:25) - 17: >
+DEBUG (2021-04-09 20:26:25) - 18: ,
+DEBUG (2021-04-09 20:26:25) - 19: [
+DEBUG (2021-04-09 20:26:25) - 20: ]
+DEBUG (2021-04-09 20:26:25) - 21: .
+DEBUG (2021-04-09 20:26:25) - 22: .
+DEBUG (2021-04-09 20:26:25) - 23: ]
+DEBUG (2021-04-09 20:26:25) - 24: +
+DEBUG (2021-04-09 20:26:25) - 25: +
+DEBUG (2021-04-09 20:26:25) - 26: +
+DEBUG (2021-04-09 20:26:25) - 27: +
+DEBUG (2021-04-09 20:26:25) - 28: +
+DEBUG (2021-04-09 20:26:25) - 29: +
+DEBUG (2021-04-09 20:26:25) - 30: +
+DEBUG (2021-04-09 20:26:25) - 31: +
+DEBUG (2021-04-09 20:26:25) - 32: [
+DEBUG (2021-04-09 20:26:25) - 33: >
+DEBUG (2021-04-09 20:26:25) - 34: +
+DEBUG (2021-04-09 20:26:25) - 35: +
+DEBUG (2021-04-09 20:26:25) - 36: +
+DEBUG (2021-04-09 20:26:25) - 37: +
+DEBUG (2021-04-09 20:26:25) - 38: [
+DEBUG (2021-04-09 20:26:25) - 39: >
+DEBUG (2021-04-09 20:26:25) - 40: +
+DEBUG (2021-04-09 20:26:25) - 41: +
+DEBUG (2021-04-09 20:26:25) - 42: >
+DEBUG (2021-04-09 20:26:25) - 43: +
+DEBUG (2021-04-09 20:26:25) - 44: +
+DEBUG (2021-04-09 20:26:25) - 45: +
+DEBUG (2021-04-09 20:26:25) - 46: >
+DEBUG (2021-04-09 20:26:25) - 47: +
+DEBUG (2021-04-09 20:26:25) - 48: +
+DEBUG (2021-04-09 20:26:25) - 49: +
+DEBUG (2021-04-09 20:26:25) - 50: >
+DEBUG (2021-04-09 20:26:25) - 51: +
+DEBUG (2021-04-09 20:26:25) - 52: <
+DEBUG (2021-04-09 20:26:25) - 53: <
+DEBUG (2021-04-09 20:26:25) - 54: <
+DEBUG (2021-04-09 20:26:25) - 55: <
+DEBUG (2021-04-09 20:26:25) - 56: -
+DEBUG (2021-04-09 20:26:25) - 57: ]
+DEBUG (2021-04-09 20:26:25) - 58: >
+DEBUG (2021-04-09 20:26:25) - 59: +
+DEBUG (2021-04-09 20:26:25) - 60: >
+DEBUG (2021-04-09 20:26:25) - 61: +
+DEBUG (2021-04-09 20:26:25) - 62: >
+DEBUG (2021-04-09 20:26:25) - 63: -
+DEBUG (2021-04-09 20:26:25) - 64: >
+DEBUG (2021-04-09 20:26:25) - 65: >
+DEBUG (2021-04-09 20:26:25) - 66: +
+DEBUG (2021-04-09 20:26:25) - 67: [
+DEBUG (2021-04-09 20:26:25) - 68: <
+DEBUG (2021-04-09 20:26:25) - 69: ]
+DEBUG (2021-04-09 20:26:25) - 70: <
+DEBUG (2021-04-09 20:26:25) - 71: -
+DEBUG (2021-04-09 20:26:25) - 72: ]
+DEBUG (2021-04-09 20:26:25) - 73: >
+DEBUG (2021-04-09 20:26:25) - 74: >
+DEBUG (2021-04-09 20:26:25) - 75: .
+DEBUG (2021-04-09 20:26:25) - 76: >
+DEBUG (2021-04-09 20:26:25) - 77: -
+DEBUG (2021-04-09 20:26:25) - 78: -
+DEBUG (2021-04-09 20:26:25) - 79: -
+DEBUG (2021-04-09 20:26:25) - 80: .
+DEBUG (2021-04-09 20:26:25) - 81: +
+DEBUG (2021-04-09 20:26:25) - 82: +
+DEBUG (2021-04-09 20:26:25) - 83: +
+DEBUG (2021-04-09 20:26:25) - 84: +
+DEBUG (2021-04-09 20:26:25) - 85: +
+DEBUG (2021-04-09 20:26:25) - 86: +
+DEBUG (2021-04-09 20:26:25) - 87: +
+DEBUG (2021-04-09 20:26:25) - 88: .
+DEBUG (2021-04-09 20:26:25) - 89: .
+DEBUG (2021-04-09 20:26:25) - 90: +
+DEBUG (2021-04-09 20:26:25) - 91: +
+DEBUG (2021-04-09 20:26:25) - 92: +
+DEBUG (2021-04-09 20:26:25) - 93: .
+DEBUG (2021-04-09 20:26:25) - 94: >
+DEBUG (2021-04-09 20:26:25) - 95: >
+DEBUG (2021-04-09 20:26:25) - 96: .
+DEBUG (2021-04-09 20:26:25) - 97: <
+DEBUG (2021-04-09 20:26:25) - 98: -
+DEBUG (2021-04-09 20:26:25) - 99: .
+DEBUG (2021-04-09 20:26:25) - 100: <
+DEBUG (2021-04-09 20:26:25) - 101: .
+DEBUG (2021-04-09 20:26:25) - 102: +
+DEBUG (2021-04-09 20:26:25) - 103: +
+DEBUG (2021-04-09 20:26:25) - 104: +
+DEBUG (2021-04-09 20:26:25) - 105: .
+DEBUG (2021-04-09 20:26:25) - 106: -
+DEBUG (2021-04-09 20:26:25) - 107: -
+DEBUG (2021-04-09 20:26:25) - 108: -
+DEBUG (2021-04-09 20:26:25) - 109: -
+DEBUG (2021-04-09 20:26:25) - 110: -
+DEBUG (2021-04-09 20:26:25) - 111: -
+DEBUG (2021-04-09 20:26:25) - 112: .
+DEBUG (2021-04-09 20:26:25) - 113: -
+DEBUG (2021-04-09 20:26:25) - 114: -
+DEBUG (2021-04-09 20:26:25) - 115: -
+DEBUG (2021-04-09 20:26:25) - 116: -
+DEBUG (2021-04-09 20:26:25) - 117: -
+DEBUG (2021-04-09 20:26:25) - 118: -
+DEBUG (2021-04-09 20:26:25) - 119: -
+DEBUG (2021-04-09 20:26:25) - 120: -
+DEBUG (2021-04-09 20:26:25) - 121: .
+DEBUG (2021-04-09 20:26:25) - 122: >
+DEBUG (2021-04-09 20:26:25) - 123: >
+DEBUG (2021-04-09 20:26:25) - 124: +
+DEBUG (2021-04-09 20:26:25) - 125: .
+DEBUG (2021-04-09 20:26:25) - 126: >
+DEBUG (2021-04-09 20:26:25) - 127: +
+DEBUG (2021-04-09 20:26:25) - 128: +
+DEBUG (2021-04-09 20:26:25) - 129: .
+INFO (2021-04-09 20:26:25) - Conditional forward jump
+INFO (2021-04-09 20:26:25) - Getting current bf byte
+INFO (2021-04-09 20:26:25) - Byte is 0 - jumping
+INFO (2021-04-09 20:26:25) - Found ] at 23
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Conditional forward jump
+INFO (2021-04-09 20:26:25) - Getting current bf byte
+INFO (2021-04-09 20:26:25) - Byte wasn't 0, adding current addr (32) to jump stack
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Conditional forward jump
+INFO (2021-04-09 20:26:25) - Getting current bf byte
+INFO (2021-04-09 20:26:25) - Byte wasn't 0, adding current addr (38) to jump stack
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Getting current bf byte
+INFO (2021-04-09 20:26:25) - Decrementing bf byte
+INFO (2021-04-09 20:26:25) - Conditional backward jump
+INFO (2021-04-09 20:26:25) - Getting current bf byte
+INFO (2021-04-09 20:26:25) - Byte was zero, jumping
+INFO (2021-04-09 20:26:25) - Jumped to 38
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Getting current bf byte
+INFO (2021-04-09 20:26:25) - Decrementing bf byte
+INFO (2021-04-09 20:26:25) - Conditional backward jump
+INFO (2021-04-09 20:26:25) - Getting current bf byte
+INFO (2021-04-09 20:26:25) - Byte was zero, jumping
+INFO (2021-04-09 20:26:25) - Jumped to 32
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Conditional forward jump
+INFO (2021-04-09 20:26:25) - Getting current bf byte
+INFO (2021-04-09 20:26:25) - Byte wasn't 0, adding current addr (38) to jump stack
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Getting current bf byte
+INFO (2021-04-09 20:26:25) - Decrementing bf byte
+INFO (2021-04-09 20:26:25) - Conditional backward jump
+INFO (2021-04-09 20:26:25) - Getting current bf byte
+INFO (2021-04-09 20:26:25) - Byte was zero, jumping
+INFO (2021-04-09 20:26:25) - Jumped to 38
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Incrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Incrementing bf byte
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Decrementing bf data pointer
+INFO (2021-04-09 20:26:25) - Getting current bf byte
+INFO (2021-04-09 20:26:25) - Decrementing bf byte
+INFO (2021-04-09 20:26:25) - Conditional backward jump
+INFO (2021-04-09 20:26:25) - Getting current bf byte
+INFO (2021-04-09 20:26:25) - Byte was zero, jumping
+ERROR (2021-04-09 20:26:25) - Tried to jump backward, but the jump stack is empty

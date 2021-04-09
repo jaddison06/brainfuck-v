@@ -1,0 +1,2367 @@
+INFO (2021-04-09 21:03:30) - Initialising Brainfuck
+INFO (2021-04-09 21:03:30) - parsing file scripts/unknown.bf
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command [
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command [
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command <
+DEBUG (2021-04-09 21:03:30) - got command <
+DEBUG (2021-04-09 21:03:30) - got command <
+DEBUG (2021-04-09 21:03:30) - got command <
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command ]
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command [
+DEBUG (2021-04-09 21:03:30) - got command <
+DEBUG (2021-04-09 21:03:30) - got command ]
+DEBUG (2021-04-09 21:03:30) - got command <
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command ]
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command .
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command .
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command .
+DEBUG (2021-04-09 21:03:30) - got command .
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command .
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command .
+DEBUG (2021-04-09 21:03:30) - got command <
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command .
+DEBUG (2021-04-09 21:03:30) - got command <
+DEBUG (2021-04-09 21:03:30) - got command .
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command .
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command .
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command -
+DEBUG (2021-04-09 21:03:30) - got command .
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command .
+DEBUG (2021-04-09 21:03:30) - got command >
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command +
+DEBUG (2021-04-09 21:03:30) - got command .
+INFO (2021-04-09 21:03:30) - Running Brainfuck
+DEBUG (2021-04-09 21:03:30) - Commands: 
+DEBUG (2021-04-09 21:03:30) - 0: +
+DEBUG (2021-04-09 21:03:30) - 1: +
+DEBUG (2021-04-09 21:03:30) - 2: +
+DEBUG (2021-04-09 21:03:30) - 3: +
+DEBUG (2021-04-09 21:03:30) - 4: +
+DEBUG (2021-04-09 21:03:30) - 5: +
+DEBUG (2021-04-09 21:03:30) - 6: +
+DEBUG (2021-04-09 21:03:30) - 7: +
+DEBUG (2021-04-09 21:03:30) - 8: [ (closed @ 48)
+DEBUG (2021-04-09 21:03:30) - 9: >
+DEBUG (2021-04-09 21:03:30) - 10: +
+DEBUG (2021-04-09 21:03:30) - 11: +
+DEBUG (2021-04-09 21:03:30) - 12: +
+DEBUG (2021-04-09 21:03:30) - 13: +
+DEBUG (2021-04-09 21:03:30) - 14: [ (closed @ 33)
+DEBUG (2021-04-09 21:03:30) - 15: >
+DEBUG (2021-04-09 21:03:30) - 16: +
+DEBUG (2021-04-09 21:03:30) - 17: +
+DEBUG (2021-04-09 21:03:30) - 18: >
+DEBUG (2021-04-09 21:03:30) - 19: +
+DEBUG (2021-04-09 21:03:30) - 20: +
+DEBUG (2021-04-09 21:03:30) - 21: +
+DEBUG (2021-04-09 21:03:30) - 22: >
+DEBUG (2021-04-09 21:03:30) - 23: +
+DEBUG (2021-04-09 21:03:30) - 24: +
+DEBUG (2021-04-09 21:03:30) - 25: +
+DEBUG (2021-04-09 21:03:30) - 26: >
+DEBUG (2021-04-09 21:03:30) - 27: +
+DEBUG (2021-04-09 21:03:30) - 28: <
+DEBUG (2021-04-09 21:03:30) - 29: <
+DEBUG (2021-04-09 21:03:30) - 30: <
+DEBUG (2021-04-09 21:03:30) - 31: <
+DEBUG (2021-04-09 21:03:30) - 32: -
+DEBUG (2021-04-09 21:03:30) - 33: ]
+DEBUG (2021-04-09 21:03:30) - 34: >
+DEBUG (2021-04-09 21:03:30) - 35: +
+DEBUG (2021-04-09 21:03:30) - 36: >
+DEBUG (2021-04-09 21:03:30) - 37: +
+DEBUG (2021-04-09 21:03:30) - 38: >
+DEBUG (2021-04-09 21:03:30) - 39: -
+DEBUG (2021-04-09 21:03:30) - 40: >
+DEBUG (2021-04-09 21:03:30) - 41: >
+DEBUG (2021-04-09 21:03:30) - 42: +
+DEBUG (2021-04-09 21:03:30) - 43: [ (closed @ 45)
+DEBUG (2021-04-09 21:03:30) - 44: <
+DEBUG (2021-04-09 21:03:30) - 45: ]
+DEBUG (2021-04-09 21:03:30) - 46: <
+DEBUG (2021-04-09 21:03:30) - 47: -
+DEBUG (2021-04-09 21:03:30) - 48: ]
+DEBUG (2021-04-09 21:03:30) - 49: >
+DEBUG (2021-04-09 21:03:30) - 50: >
+DEBUG (2021-04-09 21:03:30) - 51: .
+DEBUG (2021-04-09 21:03:30) - 52: >
+DEBUG (2021-04-09 21:03:30) - 53: -
+DEBUG (2021-04-09 21:03:30) - 54: -
+DEBUG (2021-04-09 21:03:30) - 55: -
+DEBUG (2021-04-09 21:03:30) - 56: .
+DEBUG (2021-04-09 21:03:30) - 57: +
+DEBUG (2021-04-09 21:03:30) - 58: +
+DEBUG (2021-04-09 21:03:30) - 59: +
+DEBUG (2021-04-09 21:03:30) - 60: +
+DEBUG (2021-04-09 21:03:30) - 61: +
+DEBUG (2021-04-09 21:03:30) - 62: +
+DEBUG (2021-04-09 21:03:30) - 63: +
+DEBUG (2021-04-09 21:03:30) - 64: .
+DEBUG (2021-04-09 21:03:30) - 65: .
+DEBUG (2021-04-09 21:03:30) - 66: +
+DEBUG (2021-04-09 21:03:30) - 67: +
+DEBUG (2021-04-09 21:03:30) - 68: +
+DEBUG (2021-04-09 21:03:30) - 69: .
+DEBUG (2021-04-09 21:03:30) - 70: >
+DEBUG (2021-04-09 21:03:30) - 71: >
+DEBUG (2021-04-09 21:03:30) - 72: .
+DEBUG (2021-04-09 21:03:30) - 73: <
+DEBUG (2021-04-09 21:03:30) - 74: -
+DEBUG (2021-04-09 21:03:30) - 75: .
+DEBUG (2021-04-09 21:03:30) - 76: <
+DEBUG (2021-04-09 21:03:30) - 77: .
+DEBUG (2021-04-09 21:03:30) - 78: +
+DEBUG (2021-04-09 21:03:30) - 79: +
+DEBUG (2021-04-09 21:03:30) - 80: +
+DEBUG (2021-04-09 21:03:30) - 81: .
+DEBUG (2021-04-09 21:03:30) - 82: -
+DEBUG (2021-04-09 21:03:30) - 83: -
+DEBUG (2021-04-09 21:03:30) - 84: -
+DEBUG (2021-04-09 21:03:30) - 85: -
+DEBUG (2021-04-09 21:03:30) - 86: -
+DEBUG (2021-04-09 21:03:30) - 87: -
+DEBUG (2021-04-09 21:03:30) - 88: .
+DEBUG (2021-04-09 21:03:30) - 89: -
+DEBUG (2021-04-09 21:03:30) - 90: -
+DEBUG (2021-04-09 21:03:30) - 91: -
+DEBUG (2021-04-09 21:03:30) - 92: -
+DEBUG (2021-04-09 21:03:30) - 93: -
+DEBUG (2021-04-09 21:03:30) - 94: -
+DEBUG (2021-04-09 21:03:30) - 95: -
+DEBUG (2021-04-09 21:03:30) - 96: -
+DEBUG (2021-04-09 21:03:30) - 97: .
+DEBUG (2021-04-09 21:03:30) - 98: >
+DEBUG (2021-04-09 21:03:30) - 99: >
+DEBUG (2021-04-09 21:03:30) - 100: +
+DEBUG (2021-04-09 21:03:30) - 101: .
+DEBUG (2021-04-09 21:03:30) - 102: >
+DEBUG (2021-04-09 21:03:30) - 103: +
+DEBUG (2021-04-09 21:03:30) - 104: +
+DEBUG (2021-04-09 21:03:30) - 105: .
+INFO (2021-04-09 21:03:30) - @0, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @1, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @2, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @3, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @4, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @5, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @6, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @7, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @8, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (8) to jump stack
+INFO (2021-04-09 21:03:30) - @9, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @10, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @11, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @12, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @13, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @14, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (14) to jump stack
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @34, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @35, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @36, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @37, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @38, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @39, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @40, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @41, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @42, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @43, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (43) to jump stack
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @46, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @47, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @48, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 8
+INFO (2021-04-09 21:03:30) - @9, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @10, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @11, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @12, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @13, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @14, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (14) to jump stack
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @34, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @35, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @36, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @37, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @38, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @39, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @40, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @41, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @42, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @43, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (43) to jump stack
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @46, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @47, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @48, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 8
+INFO (2021-04-09 21:03:30) - @9, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @10, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @11, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @12, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @13, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @14, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (14) to jump stack
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @34, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @35, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @36, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @37, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @38, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @39, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @40, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @41, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @42, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @43, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (43) to jump stack
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @46, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @47, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @48, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 8
+INFO (2021-04-09 21:03:30) - @9, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @10, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @11, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @12, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @13, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @14, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (14) to jump stack
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @34, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @35, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @36, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @37, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @38, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @39, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @40, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @41, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @42, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @43, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (43) to jump stack
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @46, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @47, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @48, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 8
+INFO (2021-04-09 21:03:30) - @9, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @10, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @11, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @12, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @13, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @14, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (14) to jump stack
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @34, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @35, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @36, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @37, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @38, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @39, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @40, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @41, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @42, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @43, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (43) to jump stack
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @46, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @47, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @48, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 8
+INFO (2021-04-09 21:03:30) - @9, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @10, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @11, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @12, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @13, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @14, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (14) to jump stack
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @34, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @35, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @36, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @37, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @38, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @39, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @40, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @41, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @42, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @43, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (43) to jump stack
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @46, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @47, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @48, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 8
+INFO (2021-04-09 21:03:30) - @9, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @10, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @11, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @12, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @13, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @14, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (14) to jump stack
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @34, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @35, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @36, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @37, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @38, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @39, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @40, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @41, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @42, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @43, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (43) to jump stack
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @46, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @47, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @48, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 8
+INFO (2021-04-09 21:03:30) - @9, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @10, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @11, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @12, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @13, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @14, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (14) to jump stack
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 14
+INFO (2021-04-09 21:03:30) - @15, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @16, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @17, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @18, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @19, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @20, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @21, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @22, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @23, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @24, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @25, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @26, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @27, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @28, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @29, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @30, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @31, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @32, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @33, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @34, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @35, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @36, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @37, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @38, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @39, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @40, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @41, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @42, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @43, command is [
+INFO (2021-04-09 21:03:30) - Conditional forward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't 0, adding current addr (43) to jump stack
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte was zero, jumping
+INFO (2021-04-09 21:03:30) - Jumped to 43
+INFO (2021-04-09 21:03:30) - @44, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @45, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @46, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @47, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @48, command is ]
+INFO (2021-04-09 21:03:30) - Conditional backward jump
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 21:03:30) - @49, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @50, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @51, command is .
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Outputting current bf byte: H
+INFO (2021-04-09 21:03:30) - @52, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @53, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @54, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @55, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @56, command is .
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Outputting current bf byte: e
+INFO (2021-04-09 21:03:30) - @57, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @58, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @59, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @60, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @61, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @62, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @63, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @64, command is .
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Outputting current bf byte: l
+INFO (2021-04-09 21:03:30) - @65, command is .
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Outputting current bf byte: l
+INFO (2021-04-09 21:03:30) - @66, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @67, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @68, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @69, command is .
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Outputting current bf byte: o
+INFO (2021-04-09 21:03:30) - @70, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @71, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @72, command is .
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Outputting current bf byte:  
+INFO (2021-04-09 21:03:30) - @73, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @74, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @75, command is .
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Outputting current bf byte: W
+INFO (2021-04-09 21:03:30) - @76, command is <
+INFO (2021-04-09 21:03:30) - Decrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @77, command is .
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Outputting current bf byte: o
+INFO (2021-04-09 21:03:30) - @78, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @79, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @80, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @81, command is .
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Outputting current bf byte: r
+INFO (2021-04-09 21:03:30) - @82, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @83, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @84, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @85, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @86, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @87, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @88, command is .
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Outputting current bf byte: l
+INFO (2021-04-09 21:03:30) - @89, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @90, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @91, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @92, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @93, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @94, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @95, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @96, command is -
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Decrementing bf byte
+INFO (2021-04-09 21:03:30) - @97, command is .
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Outputting current bf byte: d
+INFO (2021-04-09 21:03:30) - @98, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @99, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @100, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @101, command is .
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Outputting current bf byte: !
+INFO (2021-04-09 21:03:30) - @102, command is >
+INFO (2021-04-09 21:03:30) - Incrementing bf data pointer
+INFO (2021-04-09 21:03:30) - @103, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @104, command is +
+INFO (2021-04-09 21:03:30) - Incrementing bf byte
+INFO (2021-04-09 21:03:30) - @105, command is .
+INFO (2021-04-09 21:03:30) - Getting current bf byte
+INFO (2021-04-09 21:03:30) - Outputting current bf byte: 
+
+INFO (2021-04-09 21:03:30) - Program output: Hello World!
+

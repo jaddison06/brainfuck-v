@@ -1,0 +1,120 @@
+INFO (2021-04-09 22:00:28) - Initialising Brainfuck
+INFO (2021-04-09 22:00:28) - parsing file scripts/fibonacci.bf
+DEBUG (2021-04-09 22:00:28) - got command >
+DEBUG (2021-04-09 22:00:28) - got command -
+DEBUG (2021-04-09 22:00:28) - got command [
+DEBUG (2021-04-09 22:00:28) - got command [
+DEBUG (2021-04-09 22:00:28) - got command <
+DEBUG (2021-04-09 22:00:28) - got command +
+DEBUG (2021-04-09 22:00:28) - got command >
+DEBUG (2021-04-09 22:00:28) - got command >
+DEBUG (2021-04-09 22:00:28) - got command >
+DEBUG (2021-04-09 22:00:28) - got command -
+DEBUG (2021-04-09 22:00:28) - got command <
+DEBUG (2021-04-09 22:00:28) - got command -
+DEBUG (2021-04-09 22:00:28) - got command <
+DEBUG (2021-04-09 22:00:28) - got command +
+DEBUG (2021-04-09 22:00:28) - got command ]
+DEBUG (2021-04-09 22:00:28) - got command >
+DEBUG (2021-04-09 22:00:28) - got command ]
+INFO (2021-04-09 22:00:28) - Running Brainfuck
+DEBUG (2021-04-09 22:00:28) - Commands: 
+DEBUG (2021-04-09 22:00:28) - 0: >
+DEBUG (2021-04-09 22:00:28) - 1: -
+DEBUG (2021-04-09 22:00:28) - 2: [ (closed @ 16)
+DEBUG (2021-04-09 22:00:28) - 3: [ (closed @ 14)
+DEBUG (2021-04-09 22:00:28) - 4: <
+DEBUG (2021-04-09 22:00:28) - 5: +
+DEBUG (2021-04-09 22:00:28) - 6: >
+DEBUG (2021-04-09 22:00:28) - 7: >
+DEBUG (2021-04-09 22:00:28) - 8: >
+DEBUG (2021-04-09 22:00:28) - 9: -
+DEBUG (2021-04-09 22:00:28) - 10: <
+DEBUG (2021-04-09 22:00:28) - 11: -
+DEBUG (2021-04-09 22:00:28) - 12: <
+DEBUG (2021-04-09 22:00:28) - 13: +
+DEBUG (2021-04-09 22:00:28) - 14: ]
+DEBUG (2021-04-09 22:00:28) - 15: >
+DEBUG (2021-04-09 22:00:28) - 16: ]
+INFO (2021-04-09 22:00:37) - @0, command is >
+INFO (2021-04-09 22:00:37) - Incrementing bf data pointer
+INFO (2021-04-09 22:00:39) - @1, command is -
+INFO (2021-04-09 22:00:39) - Decrementing bf byte
+INFO (2021-04-09 22:00:39) - Getting current bf byte
+INFO (2021-04-09 22:00:39) - Wrapped bf byte downwards from 0->255
+INFO (2021-04-09 22:00:39) - @2, command is [
+INFO (2021-04-09 22:00:39) - Conditional forward jump
+INFO (2021-04-09 22:00:39) - Getting current bf byte
+INFO (2021-04-09 22:00:39) - Byte wasn't 0, adding current addr (2) to jump stack
+INFO (2021-04-09 22:00:40) - @3, command is [
+INFO (2021-04-09 22:00:40) - Conditional forward jump
+INFO (2021-04-09 22:00:40) - Getting current bf byte
+INFO (2021-04-09 22:00:40) - Byte wasn't 0, adding current addr (3) to jump stack
+INFO (2021-04-09 22:00:40) - @4, command is <
+INFO (2021-04-09 22:00:40) - Decrementing bf data pointer
+INFO (2021-04-09 22:00:41) - @5, command is +
+INFO (2021-04-09 22:00:41) - Incrementing bf byte
+INFO (2021-04-09 22:00:41) - Getting current bf byte
+INFO (2021-04-09 22:00:42) - @6, command is >
+INFO (2021-04-09 22:00:42) - Incrementing bf data pointer
+INFO (2021-04-09 22:00:42) - @7, command is >
+INFO (2021-04-09 22:00:42) - Incrementing bf data pointer
+INFO (2021-04-09 22:00:43) - @8, command is >
+INFO (2021-04-09 22:00:43) - Incrementing bf data pointer
+INFO (2021-04-09 22:00:43) - @9, command is -
+INFO (2021-04-09 22:00:43) - Decrementing bf byte
+INFO (2021-04-09 22:00:43) - Getting current bf byte
+INFO (2021-04-09 22:00:43) - Wrapped bf byte downwards from 0->255
+INFO (2021-04-09 22:00:44) - @10, command is <
+INFO (2021-04-09 22:00:44) - Decrementing bf data pointer
+INFO (2021-04-09 22:00:44) - @11, command is -
+INFO (2021-04-09 22:00:44) - Decrementing bf byte
+INFO (2021-04-09 22:00:44) - Getting current bf byte
+INFO (2021-04-09 22:00:44) - Wrapped bf byte downwards from 0->255
+INFO (2021-04-09 22:00:45) - @12, command is <
+INFO (2021-04-09 22:00:45) - Decrementing bf data pointer
+INFO (2021-04-09 22:00:45) - @13, command is +
+INFO (2021-04-09 22:00:45) - Incrementing bf byte
+INFO (2021-04-09 22:00:45) - Getting current bf byte
+INFO (2021-04-09 22:00:45) - Wrapped bf byte upwards from 255->0
+INFO (2021-04-09 22:00:46) - @14, command is ]
+INFO (2021-04-09 22:00:46) - Conditional backward jump
+INFO (2021-04-09 22:00:46) - Getting current bf byte
+INFO (2021-04-09 22:00:46) - Byte wasn't zero, popping jump stack & continuing
+INFO (2021-04-09 22:00:46) - @15, command is >
+INFO (2021-04-09 22:00:46) - Incrementing bf data pointer
+INFO (2021-04-09 22:00:46) - @16, command is ]
+INFO (2021-04-09 22:00:46) - Conditional backward jump
+INFO (2021-04-09 22:00:46) - Getting current bf byte
+INFO (2021-04-09 22:00:46) - Byte was zero, jumping
+INFO (2021-04-09 22:00:46) - Jumped to 2
+INFO (2021-04-09 22:00:46) - @3, command is [
+INFO (2021-04-09 22:00:46) - Conditional forward jump
+INFO (2021-04-09 22:00:46) - Getting current bf byte
+INFO (2021-04-09 22:00:46) - Byte wasn't 0, adding current addr (3) to jump stack
+INFO (2021-04-09 22:00:47) - @4, command is <
+INFO (2021-04-09 22:00:47) - Decrementing bf data pointer
+INFO (2021-04-09 22:00:47) - @5, command is +
+INFO (2021-04-09 22:00:47) - Incrementing bf byte
+INFO (2021-04-09 22:00:47) - Getting current bf byte
+INFO (2021-04-09 22:00:48) - @6, command is >
+INFO (2021-04-09 22:00:48) - Incrementing bf data pointer
+INFO (2021-04-09 22:00:48) - @7, command is >
+INFO (2021-04-09 22:00:48) - Incrementing bf data pointer
+INFO (2021-04-09 22:00:49) - @8, command is >
+INFO (2021-04-09 22:00:49) - Incrementing bf data pointer
+INFO (2021-04-09 22:00:49) - @9, command is -
+INFO (2021-04-09 22:00:49) - Decrementing bf byte
+INFO (2021-04-09 22:00:49) - Getting current bf byte
+INFO (2021-04-09 22:00:49) - Wrapped bf byte downwards from 0->255
+INFO (2021-04-09 22:00:49) - @10, command is <
+INFO (2021-04-09 22:00:49) - Decrementing bf data pointer
+INFO (2021-04-09 22:00:50) - @11, command is -
+INFO (2021-04-09 22:00:50) - Decrementing bf byte
+INFO (2021-04-09 22:00:50) - Getting current bf byte
+INFO (2021-04-09 22:00:50) - @12, command is <
+INFO (2021-04-09 22:00:50) - Decrementing bf data pointer
+INFO (2021-04-09 22:00:51) - @13, command is +
+INFO (2021-04-09 22:00:51) - Incrementing bf byte
+INFO (2021-04-09 22:00:51) - Getting current bf byte
+INFO (2021-04-09 22:00:51) - Wrapped bf byte upwards from 255->0

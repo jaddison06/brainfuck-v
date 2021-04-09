@@ -1,0 +1,50 @@
+INFO (2021-04-09 21:08:29) - Initialising Brainfuck
+INFO (2021-04-09 21:08:29) - parsing file scripts/fibonacci.bf
+DEBUG (2021-04-09 21:08:29) - got command >
+DEBUG (2021-04-09 21:08:29) - got command -
+DEBUG (2021-04-09 21:08:29) - got command [
+DEBUG (2021-04-09 21:08:29) - got command [
+DEBUG (2021-04-09 21:08:29) - got command <
+DEBUG (2021-04-09 21:08:29) - got command +
+DEBUG (2021-04-09 21:08:29) - got command >
+DEBUG (2021-04-09 21:08:29) - got command >
+DEBUG (2021-04-09 21:08:29) - got command >
+DEBUG (2021-04-09 21:08:29) - got command -
+DEBUG (2021-04-09 21:08:29) - got command <
+DEBUG (2021-04-09 21:08:29) - got command -
+DEBUG (2021-04-09 21:08:29) - got command <
+DEBUG (2021-04-09 21:08:29) - got command +
+DEBUG (2021-04-09 21:08:29) - got command ]
+DEBUG (2021-04-09 21:08:29) - got command >
+DEBUG (2021-04-09 21:08:29) - got command ]
+INFO (2021-04-09 21:08:29) - Running Brainfuck
+DEBUG (2021-04-09 21:08:29) - Commands: 
+DEBUG (2021-04-09 21:08:29) - 0: >
+DEBUG (2021-04-09 21:08:29) - 1: -
+DEBUG (2021-04-09 21:08:29) - 2: [ (closed @ 16)
+DEBUG (2021-04-09 21:08:29) - 3: [ (closed @ 14)
+DEBUG (2021-04-09 21:08:29) - 4: <
+DEBUG (2021-04-09 21:08:29) - 5: +
+DEBUG (2021-04-09 21:08:29) - 6: >
+DEBUG (2021-04-09 21:08:29) - 7: >
+DEBUG (2021-04-09 21:08:29) - 8: >
+DEBUG (2021-04-09 21:08:29) - 9: -
+DEBUG (2021-04-09 21:08:29) - 10: <
+DEBUG (2021-04-09 21:08:29) - 11: -
+DEBUG (2021-04-09 21:08:29) - 12: <
+DEBUG (2021-04-09 21:08:29) - 13: +
+DEBUG (2021-04-09 21:08:29) - 14: ]
+DEBUG (2021-04-09 21:08:29) - 15: >
+DEBUG (2021-04-09 21:08:29) - 16: ]
+INFO (2021-04-09 21:08:29) - @0, command is >
+INFO (2021-04-09 21:08:29) - Incrementing bf data pointer
+INFO (2021-04-09 21:08:29) - @1, command is -
+INFO (2021-04-09 21:08:29) - Getting current bf byte
+WARN (2021-04-09 21:08:29) - Tried to decrement bf byte, but it was already 0
+INFO (2021-04-09 21:08:29) - @2, command is [
+INFO (2021-04-09 21:08:29) - Conditional forward jump
+INFO (2021-04-09 21:08:29) - Getting current bf byte
+INFO (2021-04-09 21:08:29) - Byte is 0 - jumping
+INFO (2021-04-09 21:08:29) - Finding next ] command (at 2)
+INFO (2021-04-09 21:08:29) - Found ] at 16
+INFO (2021-04-09 21:08:29) - Program output: 

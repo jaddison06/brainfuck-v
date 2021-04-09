@@ -1,0 +1,126 @@
+ERROR - Tried to jump backward, but the jump stack is empty
+INFO - Byte was zero, jumping
+INFO - Getting current bf byte
+INFO - Conditional backward jump
+INFO - Decrementing bf byte
+INFO - Getting current bf byte
+INFO - Decrementing bf data pointer
+INFO - Decrementing bf data pointer
+INFO - Decrementing bf data pointer
+INFO - Decrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Jumped to 695
+INFO - Byte was zero, jumping
+INFO - Getting current bf byte
+INFO - Conditional backward jump
+INFO - Decrementing bf byte
+INFO - Getting current bf byte
+INFO - Decrementing bf data pointer
+INFO - Decrementing bf data pointer
+INFO - Decrementing bf data pointer
+INFO - Decrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Byte wasn't 0, adding current addr (695) to jump stack
+INFO - Getting current bf byte
+INFO - Conditional forward jump
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Jumped to 613
+INFO - Byte was zero, jumping
+INFO - Getting current bf byte
+INFO - Conditional backward jump
+INFO - Decrementing bf byte
+INFO - Getting current bf byte
+INFO - Decrementing bf data pointer
+INFO - Decrementing bf data pointer
+INFO - Decrementing bf data pointer
+INFO - Decrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Jumped to 695
+INFO - Byte was zero, jumping
+INFO - Getting current bf byte
+INFO - Conditional backward jump
+INFO - Decrementing bf byte
+INFO - Getting current bf byte
+INFO - Decrementing bf data pointer
+INFO - Decrementing bf data pointer
+INFO - Decrementing bf data pointer
+INFO - Decrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Byte wasn't 0, adding current addr (695) to jump stack
+INFO - Getting current bf byte
+INFO - Conditional forward jump
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf data pointer
+INFO - Byte wasn't 0, adding current addr (613) to jump stack
+INFO - Getting current bf byte
+INFO - Conditional forward jump
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Incrementing bf byte
+INFO - Found ] at 571
+INFO - Byte is 0 - jumping
+INFO - Getting current bf byte
+INFO - Conditional forward jump
+INFO - Running Brainfuck
+INFO - parsing file scripts/hello_world.bf
+INFO - Initialising Brainfuck
