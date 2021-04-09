@@ -91,6 +91,11 @@ fn (mut ctx BrainfuckContext) run() {
 		
 		ctx.cmd_index++
 		ctx.tick_count++
+
+		// some programs will never exit, so it'll never get flushed and you'll end up w/ an empty logfile
+		if ctx.tick_count % 15 == 0 {
+			ctx.logger.flush()
+		}
 	}
 	
 	if ctx.output != "" {

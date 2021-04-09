@@ -56,6 +56,8 @@ fn (mut l Logger) flush() {
 	for line in l.buf {
 		l.append_msg(line)
 	}
+
+	l.buf.clear()
 }
 
 fn (mut l Logger) msg(level string, msg string) {

@@ -17,7 +17,8 @@ fn (mut ctx Context) init() {
 		print_messages: true
 		// if we're visualising, writing to the file every time we want to print
 		// is sloooooow, and the tick looks really ugly. doing it this way means that the new data
-		// gets printed instantly, as soon as you press enter.
+		// gets printed instantly, as soon as you press enter. however, if you're running something that
+		// doesn't terminate then you could lose a few ticks on the ctrl-c.
 		use_buffer: true
 	}
 	ctx.logger.init()
@@ -27,6 +28,7 @@ fn (mut ctx Context) init() {
 
 		visualise: true
 		length_to_display: 40
+		//pause_time_ms: 0
 	}
 	ctx.bf.init()
 }
